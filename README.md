@@ -17,8 +17,6 @@
 
 ## 🌟 Projects 
 
-## 🌟 Projects (Self-Made)
-
 🚀 I independently built these projects from the ground up, implementing all functionalities myself to 💡 enhance my skills and understanding of backend development.
 
 
