@@ -51,6 +51,7 @@
 - **Computer Science Fundamentals:** DBMS, Operating Systems, Networking, OOPs  
 
 ---
+🙌 **Thanks for visiting my profile!**  
+I’m always excited to connect with others passionate about technology, backend development, and cloud computing. If you have any questions, collaboration ideas, or just want to chat about tech, feel free to reach out! 😊
 
-Thanks for visiting my profile! Feel free to reach out! 😊
-
+Looking forward to new connections and opportunities!😊😊😊
