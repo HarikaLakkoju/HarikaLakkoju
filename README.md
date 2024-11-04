@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @HarikaLakkoju
+# 👋 Hi, I'm Harika
 - 👀 I’m interested in how app backend works
 - 🌱 I’m currently learning cloud technologies
 - 💞️ I’m looking to collaborate on backend projects and Building  REST APIs
