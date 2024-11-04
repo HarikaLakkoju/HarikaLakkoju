@@ -7,8 +7,7 @@
 🎓 **Education**  
 - **Bachelor of Computer Science**  
   Government Autonomous College | Feb 2021 - July 2023 | CGPA: 9.7  
-- **Intermediate**  
-  Aditya Junior College | May 2018 - April 2020 | CGPA: 9.3  
+
 
 📍 Rajahmundry, Andhra Pradesh  
 📫 [harikalakkoju16@gmail.com](mailto:harikalakkoju16@gmail.com)  
